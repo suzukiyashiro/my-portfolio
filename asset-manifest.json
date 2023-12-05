@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.491d2877.css",
-    "main.js": "/my-portfolio/static/js/main.8673f2f4.js",
+    "main.css": "/my-portfolio/static/css/main.f2d217cf.css",
+    "main.js": "/my-portfolio/static/js/main.401d95a2.js",
+    "static/media/酔いどれ知らず.mp3": "/my-portfolio/static/media/酔いどれ知らず.53d9f3e018c633378a9a.mp3",
     "static/media/hero.jpg": "/my-portfolio/static/media/hero.64c8090c2fa0ea32ea3c.jpg",
     "static/media/site.png": "/my-portfolio/static/media/site.9debefae9075daa6e7d7.png",
+    "static/media/music.jpg": "/my-portfolio/static/media/music.da60f4eef4a0596b42b7.jpg",
     "static/media/derby.png": "/my-portfolio/static/media/derby.23e41c01cdeddc220a11.png",
+    "static/media/clock.jpeg": "/my-portfolio/static/media/clock.582e0fd1d7c06b224072.jpeg",
     "static/media/caluculator.jpeg": "/my-portfolio/static/media/caluculator.d080d4ad3921d19b8f5c.jpeg",
     "static/media/sample-portfolio.jpeg": "/my-portfolio/static/media/sample-portfolio.c46081db247faa44c9e6.jpeg",
     "static/media/othello.png": "/my-portfolio/static/media/othello.ca757083ac2cc7f0dbaf.png",
     "index.html": "/my-portfolio/index.html",
-    "main.491d2877.css.map": "/my-portfolio/static/css/main.491d2877.css.map",
-    "main.8673f2f4.js.map": "/my-portfolio/static/js/main.8673f2f4.js.map"
+    "main.f2d217cf.css.map": "/my-portfolio/static/css/main.f2d217cf.css.map",
+    "main.401d95a2.js.map": "/my-portfolio/static/js/main.401d95a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.491d2877.css",
-    "static/js/main.8673f2f4.js"
+    "static/css/main.f2d217cf.css",
+    "static/js/main.401d95a2.js"
   ]
 }

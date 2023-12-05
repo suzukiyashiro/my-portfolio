@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.f2d217cf.css",
-    "main.js": "/my-portfolio/static/js/main.401d95a2.js",
-    "static/media/酔いどれ知らず.mp3": "/my-portfolio/static/media/酔いどれ知らず.53d9f3e018c633378a9a.mp3",
+    "main.css": "/my-portfolio/static/css/main.02e286fd.css",
+    "main.js": "/my-portfolio/static/js/main.7bd75f52.js",
+    "static/media/originalSparkle.mp3": "/my-portfolio/static/media/originalSparkle.9d3859473ae42820256a.mp3",
+    "static/media/lab.png": "/my-portfolio/static/media/lab.6f02fc4fdc67e67c6229.png",
     "static/media/hero.jpg": "/my-portfolio/static/media/hero.64c8090c2fa0ea32ea3c.jpg",
     "static/media/site.png": "/my-portfolio/static/media/site.9debefae9075daa6e7d7.png",
     "static/media/music.jpg": "/my-portfolio/static/media/music.da60f4eef4a0596b42b7.jpg",
     "static/media/derby.png": "/my-portfolio/static/media/derby.23e41c01cdeddc220a11.png",
+    "static/media/generated.mp3": "/my-portfolio/static/media/generated.a35fb01013940e28f0f8.mp3",
     "static/media/clock.jpeg": "/my-portfolio/static/media/clock.582e0fd1d7c06b224072.jpeg",
     "static/media/caluculator.jpeg": "/my-portfolio/static/media/caluculator.d080d4ad3921d19b8f5c.jpeg",
     "static/media/sample-portfolio.jpeg": "/my-portfolio/static/media/sample-portfolio.c46081db247faa44c9e6.jpeg",
     "static/media/othello.png": "/my-portfolio/static/media/othello.ca757083ac2cc7f0dbaf.png",
     "index.html": "/my-portfolio/index.html",
-    "main.f2d217cf.css.map": "/my-portfolio/static/css/main.f2d217cf.css.map",
-    "main.401d95a2.js.map": "/my-portfolio/static/js/main.401d95a2.js.map"
+    "main.02e286fd.css.map": "/my-portfolio/static/css/main.02e286fd.css.map",
+    "main.7bd75f52.js.map": "/my-portfolio/static/js/main.7bd75f52.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2d217cf.css",
-    "static/js/main.401d95a2.js"
+    "static/css/main.02e286fd.css",
+    "static/js/main.7bd75f52.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.0f48eed9.css",
-    "main.js": "/my-portfolio/static/js/main.0bfe30d1.js",
+    "main.js": "/my-portfolio/static/js/main.d7bfc330.js",
     "static/media/originalSparkle.mp3": "/my-portfolio/static/media/originalSparkle.9d3859473ae42820256a.mp3",
     "static/media/hero2.jpg": "/my-portfolio/static/media/hero2.8542ef1ca3a8f7337726.jpg",
     "static/media/original-idol.mp3": "/my-portfolio/static/media/original-idol.5f6d8a270d8c7cff6d84.mp3",
@@ -12,15 +12,16 @@
     "static/media/derby.png": "/my-portfolio/static/media/derby.23e41c01cdeddc220a11.png",
     "static/media/generated.mp3": "/my-portfolio/static/media/generated.a35fb01013940e28f0f8.mp3",
     "static/media/clock.jpeg": "/my-portfolio/static/media/clock.582e0fd1d7c06b224072.jpeg",
+    "static/media/bulletinBoard.jpg": "/my-portfolio/static/media/bulletinBoard.23e554d759bf956e1e1c.jpg",
     "static/media/caluculator.jpeg": "/my-portfolio/static/media/caluculator.d080d4ad3921d19b8f5c.jpeg",
     "static/media/sample-portfolio.jpeg": "/my-portfolio/static/media/sample-portfolio.c46081db247faa44c9e6.jpeg",
     "static/media/othello.png": "/my-portfolio/static/media/othello.ca757083ac2cc7f0dbaf.png",
     "index.html": "/my-portfolio/index.html",
     "main.0f48eed9.css.map": "/my-portfolio/static/css/main.0f48eed9.css.map",
-    "main.0bfe30d1.js.map": "/my-portfolio/static/js/main.0bfe30d1.js.map"
+    "main.d7bfc330.js.map": "/my-portfolio/static/js/main.d7bfc330.js.map"
   },
   "entrypoints": [
     "static/css/main.0f48eed9.css",
-    "static/js/main.0bfe30d1.js"
+    "static/js/main.d7bfc330.js"
   ]
 }

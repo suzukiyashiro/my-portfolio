@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.365a6523.css",
-    "main.js": "/my-portfolio/static/js/main.57ef09e6.js",
+    "main.css": "/my-portfolio/static/css/main.03be64bf.css",
+    "main.js": "/my-portfolio/static/js/main.2df0dfd0.js",
     "static/media/originalSparkle.mp3": "/my-portfolio/static/media/originalSparkle.9d3859473ae42820256a.mp3",
-    "static/media/hero2.jpg": "/my-portfolio/static/media/hero2.8542ef1ca3a8f7337726.jpg",
     "static/media/original-idol.mp3": "/my-portfolio/static/media/original-idol.5f6d8a270d8c7cff6d84.mp3",
     "static/media/markov-idol.mp3": "/my-portfolio/static/media/markov-idol.73015f338d79790e89ec.mp3",
     "static/media/lab.png": "/my-portfolio/static/media/lab.6f02fc4fdc67e67c6229.png",
     "static/media/site.png": "/my-portfolio/static/media/site.9debefae9075daa6e7d7.png",
+    "static/media/hero3.jpg": "/my-portfolio/static/media/hero3.ef1a7f7a532744062dd0.jpg",
     "static/media/music.jpg": "/my-portfolio/static/media/music.da60f4eef4a0596b42b7.jpg",
     "static/media/derby.png": "/my-portfolio/static/media/derby.23e41c01cdeddc220a11.png",
     "static/media/generated.mp3": "/my-portfolio/static/media/generated.a35fb01013940e28f0f8.mp3",
@@ -18,11 +18,11 @@
     "static/media/sample-portfolio.jpeg": "/my-portfolio/static/media/sample-portfolio.c46081db247faa44c9e6.jpeg",
     "static/media/othello.png": "/my-portfolio/static/media/othello.ca757083ac2cc7f0dbaf.png",
     "index.html": "/my-portfolio/index.html",
-    "main.365a6523.css.map": "/my-portfolio/static/css/main.365a6523.css.map",
-    "main.57ef09e6.js.map": "/my-portfolio/static/js/main.57ef09e6.js.map"
+    "main.03be64bf.css.map": "/my-portfolio/static/css/main.03be64bf.css.map",
+    "main.2df0dfd0.js.map": "/my-portfolio/static/js/main.2df0dfd0.js.map"
   },
   "entrypoints": [
-    "static/css/main.365a6523.css",
-    "static/js/main.57ef09e6.js"
+    "static/css/main.03be64bf.css",
+    "static/js/main.2df0dfd0.js"
   ]
 }
